@@ -1,0 +1,4 @@
+apple = 2
+ball = 3
+cat = dog
+
